@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main-card {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.main-card:hover {
+  box-shadow: 0px 0px 16px rgb(0 0 0 / 10%);
+}
+.main-box {
+  width: 33%;
+  display: inline-block;
+  padding: 20px 0;
+  transition: transform 0.2s;
+}
+
+.srch {
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.navv {
+  box-shadow: 0px 0px 10px rgb(0 0 0 / 20%);
+}
+.main-box:hover {
+  transform: scale(1.02);
+}
+a.con-shop span {
+  font-size: 3rem;
+  vertical-align: sub;
+}
+a.con-shop {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+}
+
+.fav-list ul li {
+  border-bottom: 1px solid black;
+  padding: 10px 0px;
+  list-style: none;
+}
+
+a.con-shop {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+}
+
+/* MY CSS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */

@@ -1,0 +1,103 @@
+const Data = [
+  {
+    id: 1,
+    image: "./images/wine1.jpg",
+    name: "Rose",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "wine",
+  },
+  {
+    id: 2,
+    image: "./images/wine2.jpg",
+    name: "Rosé",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "wine",
+  },
+  {
+    id: 3,
+    image: "./images/wine3.jpg",
+    name: "Red wine",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "wine",
+  },
+
+  {
+    id: 4,
+    image: "./images/rum1.jpg",
+    name: "Anejo cuatro",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "rum",
+  },
+  {
+    id: 5,
+    image: "./images/rum2.jpg",
+    name: "Amrut",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "rum",
+  },
+  {
+    id: 6,
+    image: "./images/rum3.jpg",
+    name: "Balvene",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "rum",
+  },
+
+  {
+    id: 7,
+    image: "./images/whis1.jpg",
+    name: "Legent Bourbon.",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Whisky",
+  },
+  {
+    id: 8,
+    image: "./images/whis2.jpg",
+    name: "Glengoyne Legacy",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Whisky",
+  },
+  {
+    id: 9,
+    image: "./images/whis3.jpg",
+    name: "Colonel E.H. Taylor Amaranth.",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Whisky",
+  },
+
+  {
+    id: 10,
+    image: "./images/cock1.jpg",
+    name: "Cosmopolitan",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Cocktails",
+  },
+  {
+    id: 11,
+    image: "./images/cock2.jpg",
+    name: "Mojito",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Cocktails",
+  },
+  {
+    id: 12,
+    image: "./images/cock3.jpg",
+    name: "Mint Julep",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    price: 30,
+    category: "Cocktails",
+  },
+];
+
+export default Data;
