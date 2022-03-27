@@ -5,3 +5,4 @@ Main highlights :-
 2. useCart hook
 3. Props
 4. Routing
+5. localStorage
